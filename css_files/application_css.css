@@ -1,0 +1,30 @@
+* {
+  font-size: 20px;
+  font-family: sans-serif;
+}
+
+QMainWindow {
+  background: #adefd1ff;
+}
+QLabel {
+  min-width: 71px;
+  border: 1px solid black;
+  border-radius: 10px;
+
+}
+
+QLineEdit {
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+QPushButton {
+  color: white;
+  background: #4681f4;
+  border-radius: 20px;
+  font-size: 20px;
+}
+
+QComboBox {
+  border-radius: 10px;
+}
